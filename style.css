@@ -1,0 +1,19 @@
+body {
+  border: 1px solid black;
+  padding: 20px auto;
+  height: 600px;
+  background-image: url(images/Top_of_Atmosphere.jpg);
+  background-position: center;
+  opacity: 0.9;
+}
+.weather-search {
+  margin-bottom: 20px;
+}
+
+#farh-link {
+  text-decoration: none;
+}
+#CurrentLocation {
+  width: 200px;
+  margin-top: 5px;
+}
